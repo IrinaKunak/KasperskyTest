@@ -1,3 +1,0 @@
-# KasperskyTest
-
-# ЗАГОЛОВОК #
